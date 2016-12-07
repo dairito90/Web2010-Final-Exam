@@ -1,0 +1,22 @@
+body{
+  background-color: #708090;
+  text-align: center;
+  display:inline-block;
+  margin-left: 500px;
+}
+
+
+h1{
+margin-top: 200px;
+font-family: "Times New Roman",Georgia;
+color: white;
+font-size: 2em;
+
+}
+
+input{
+  width: 200px;
+  align:"center"
+  display:inline-block;
+
+}
