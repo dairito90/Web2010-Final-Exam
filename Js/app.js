@@ -1,4 +1,6 @@
 //i do my best in this part i hope you understand me//
+
+
 $("#submit").click(search).val{
   function getArticles(search){
 
@@ -24,7 +26,7 @@ $("#articles").append(
 );
 
 
-$("#submit").html("title.snippet");
+$("#submit").html("");
 
 
 
